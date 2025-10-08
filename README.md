@@ -1,3 +1,13 @@
+Initial Project Structure
+github-repo-analyzer/
+├── analyzer.py
+├── cli.py
+├── utils.py
+├── requirements.txt
+└── README.md
+
+
+
 # My-project-repoimport argparse
 from analyzer import analyze_repo
 
